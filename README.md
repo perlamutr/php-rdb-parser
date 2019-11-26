@@ -1,6 +1,6 @@
 # Redis dump file (RDB) parser
 
-[![Latest Stable Version](https://poser.pugx.org/perlamutr/php-rdb-parser/v/stable)](https://packagist.org/packages/perlamutr/php-rdb-parser) [![Total Downloads](https://poser.pugx.org/perlamutr/php-rdb-parser/downloads)](https://packagist.org/packages/perlamutr/php-rdb-parser) [![Latest Unstable Version](https://poser.pugx.org/perlamutr/php-rdb-parser/v/unstable)](https://packagist.org/packages/perlamutr/php-rdb-parser) [![License](https://poser.pugx.org/perlamutr/php-rdb-parser/license)](https://packagist.org/packages/lastguest/murmurhash)
+[![Latest Stable Version](https://poser.pugx.org/perlamutr/php-rdb-parser/v/stable)](https://packagist.org/packages/perlamutr/php-rdb-parser) [![Total Downloads](https://poser.pugx.org/perlamutr/php-rdb-parser/downloads)](https://packagist.org/packages/perlamutr/php-rdb-parser) [![Latest Unstable Version](https://poser.pugx.org/perlamutr/php-rdb-parser/v/unstable)](https://packagist.org/packages/perlamutr/php-rdb-parser) [![License](https://poser.pugx.org/perlamutr/php-rdb-parser/license)](https://packagist.org/packages/perlamutr/php-rdb-parser)
 
 PHP Implementation of Redis RDB parser
 
